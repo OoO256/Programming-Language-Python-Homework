@@ -1,0 +1,3 @@
+LAX Los_Angeles international 30000
+SYR New-York international 10000
+SFO San_Francsico international 20000
