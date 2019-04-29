@@ -15,3 +15,5 @@ for line in file:
         how_populate = 'very sparsely populated'
 
     print('{} is {}'.format(country, how_populate))
+    
+file.close()
