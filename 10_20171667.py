@@ -37,4 +37,4 @@ print('*** Category : status ***')
 print('')
 print('domestic :', num_domestic)
 print('international :', num_international)
-    
+file.close()
