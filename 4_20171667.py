@@ -14,3 +14,5 @@ print("< 평균 >")
 print('--------------------------')
 for line in scores:
     print('{} - {:.2f}'.format(line[0], (sum(line[1:]) - min(line[1:]))/3))
+    
+f.close()
